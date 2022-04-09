@@ -8,7 +8,9 @@
 ~~C++拥护者：罗非鱼警告！~~[doge]    
 
 会的语言有Python、Ruby和一点点node.js  
-
+## 我在GitHub
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=budawu&layout=compact&theme=nightowl)  
+![](https://github-readme-stats.vercel.app/api?username=budawu&theme=nightowl&show_icons=true&count_private=true)  
 ## 我的开发工具
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
