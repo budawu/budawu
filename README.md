@@ -20,5 +20,10 @@
 ![](https://img.shields.io/badge/manjaro-green?style=for-the-badge&logo=manjaro&logoColor=white) 
 ![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue) 
 ![](https://img.shields.io/badge/arduino-skyblue?style=for-the-badge&logo=arduino&logoColor=white) 
+## 我正在学习
+* Django开发框架
+* Arduino
+* matplotlib
+
 
 
