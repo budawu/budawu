@@ -15,4 +15,4 @@
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
-
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
