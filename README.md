@@ -19,5 +19,6 @@
 ![](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![](https://img.shields.io/badge/manjaro-green?style=for-the-badge&logo=manjaro&logoColor=white) 
 ![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue) 
+![](https://img.shields.io/badge/arduino?style=for-the-badge&logo=arduino&logoColor=white) 
 
 
