@@ -14,7 +14,7 @@
 ## 我的开发工具
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/pycharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![](https://img.shields.io/badge/manjaro-green?style=for-the-badge&logo=manjaro&logoColor=white) 
