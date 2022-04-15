@@ -1,6 +1,9 @@
 ## 关于我自己 About me
-学生。  I'm a Chinese student and I'm busy with my schoolwork.
-蒟蒻。（虽然不打算参加信息竞赛）  
+中学生。  
+I'm a Chinese middle school student and I'm busy with my schoolwork.
+蒟蒻。（虽然不打算参加信息竞赛） 
+I'm not very at coding,in OI(Olympiad in Informatics) called“蒟蒻”,sounds like "extremely weak" in Chinese,althogh 
+I don't plan to take part in OI.  
 三体迷。  
 ```
 消灭C++暴政，世界属于Python！
@@ -26,3 +29,4 @@
 
 
 
+ 
