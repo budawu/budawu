@@ -1,16 +1,17 @@
 ## 关于我自己 About me
-中学生。  
-I'm a Chinese middle school student and I'm busy with my schoolwork.
-蒟蒻。（虽然不打算参加信息竞赛） 
-I'm not very at coding,in OI(Olympiad in Informatics) called“蒟蒻”,sounds like "extremely weak" in Chinese,althogh 
-I don't plan to take part in OI.  
+中学生。  <nr>
+I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
+蒟蒻。（虽然不打算参加信息竞赛） <br>
+I'm not very at coding,in OI(Olympiad in Informatics) called“蒟蒻”,sounds like "extremely weak" in Chinese,althogh <br>
+I don't plan to take part in OI.  <br>
 三体迷。  
 ```
 消灭C++暴政，世界属于Python！
 ```
 ~~C++拥护者：罗非鱼警告！~~[doge]    
 
-会的语言有Python、Ruby和一点点node.js  I can use Python and a little Ruby and node.js .  
+会的语言有Python、Ruby和一点点node.js <br> 
+ I can use Python and a little Ruby and node.js .  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=budawu&layout=compact&theme=nightowl)  
 ![](https://github-readme-stats.vercel.app/api?username=budawu&theme=nightowl&show_icons=true&count_private=true)  
 ## 我的开发工具 My developing kits
@@ -26,6 +27,7 @@ I don't plan to take part in OI.
 * Django
 * Arduino
 * matplotlib
+ 
 
 
 
