@@ -2,8 +2,7 @@
 中学生。  <br>
 I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
 蒟蒻。（虽然不打算参加信息竞赛） <br>
-I'm not very at coding,in OI(Olympiad in Informatics) circle called“蒟蒻”,sounds like "extremely weak" in Chinese,althogh  
-I don't plan to take part in OI.  <br>
+Not very at coding...  <br>
 三体迷。  
 ```
 消灭C++暴政，世界属于Python！
@@ -14,7 +13,7 @@ I don't plan to take part in OI.  <br>
  I can use Python and a little Ruby and node.js .  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=budawu&layout=compact&theme=nightowl)  
 ![](https://github-readme-stats.vercel.app/api?username=budawu&theme=nightowl&show_icons=true&count_private=true)  
-## 我的开发工具 My developing kits
+## 我的开发工具 My developing apps
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/pycharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -30,7 +29,7 @@ I don't plan to take part in OI.  <br>
 
 欢迎交流。  
 Communication welcomed. 
- 
+  
 
  
 
