@@ -2,7 +2,7 @@
 中学生。  <br>
 I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
 蒟蒻。（虽然不打算参加信息竞赛） <br>
-I'm not very at coding,in OI(Olympiad in Informatics) called“蒟蒻”,sounds like "extremely weak" in Chinese,althogh  
+I'm not very at coding,in OI(Olympiad in Informatics) circle called“蒟蒻”,sounds like "extremely weak" in Chinese,althogh  
 I don't plan to take part in OI.  <br>
 三体迷。  
 ```
@@ -27,6 +27,7 @@ I don't plan to take part in OI.  <br>
 * Django
 * Arduino
 * matplotlib  
+
 欢迎交流。  
 Communication welcomed. 
  
