@@ -1,18 +1,9 @@
 ## 关于我自己 About me
 中学生。  <br>
-I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
-蒟蒻。（虽然不打算参加信息竞赛） <br>
-Not very at coding...  <br>
-三体迷。  
-```
-消灭C++暴政，世界属于Python！
-```
-~~C++拥护者：罗非鱼警告！~~[doge]    
-
-会的语言有Python、Ruby和一点点node.js <br> 
- I can use Python and a little Ruby and node.js .  
+I'm a Chinese middle school student and I'm busy with my schoolwork. <br>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=budawu&layout=compact&theme=nightowl)  
-![](https://github-readme-stats.vercel.app/api?username=budawu&theme=nightowl&show_icons=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=budawu&theme=nightowl&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=isaaclk&theme=nightowl)
 ## 我的开发工具 My developing apps
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
