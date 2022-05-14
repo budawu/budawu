@@ -15,6 +15,7 @@ I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
 ![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue) 
 ![](https://img.shields.io/badge/arduino-0af4cd?style=for-the-badge&logo=arduino&logoColor=white) 
 ![](https://img.shields.io/badge/html5-f5580a?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ## 我正在学习 I'm learning
 * Django
 * Arduino
