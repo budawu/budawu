@@ -1,6 +1,5 @@
 ## 关于我自己 About me
 中学生。  <br>
-<li><a href="https://budawu.github.io">My Website</a></li>
 I'm a Chinese middle school student and I'm busy with my schoolwork. <br>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=budawu&layout=compact&theme=nightowl)  
 ![](https://github-readme-stats.vercel.app/api?username=budawu&theme=nightowl&show_icons=true&count_private=true)
