@@ -15,11 +15,12 @@ I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
 ![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue) 
 ![](https://img.shields.io/badge/arduino-0af4cd?style=for-the-badge&logo=arduino&logoColor=white) 
 ![](https://img.shields.io/badge/html5-f5580a?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Golang-00ffcc?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Julia-9999ff?style=for-the-badge&logo=julia&logoColor=white)
+
 ## 我正在学习 I'm learning
 * Django
-* Arduino
-* matplotlib  
+* Go 
 
 欢迎交流。  
 Communication welcomed. 
