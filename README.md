@@ -1,5 +1,5 @@
 ## 关于我自己 About me
-来自霸都合肥的初中生，喜欢捣鼓一些有意思的东西
+来自霸都合肥的初中生，喜欢捣鼓一些有意思的东西 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=budawu&layout=compact&exclude_repo=aeonium_cr)  
 ![](https://github-readme-stats.vercel.app/api?username=budawu&show_icons=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=budawu) <br>
